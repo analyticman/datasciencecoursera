@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repor for Data Science Tool Kit course
+Repo for Data Science Tool Kit course
